@@ -92,7 +92,7 @@ Prediction
 > 
 🤝 Let's Connect
 
-* 💼 [LinkedIn](www.linkedin.com/in/sowmiya-m-6ab6bb292)
+* 💼 [LinkedIn](https://www.linkedin.com/in/sowmiya-m-6ab6bb292/)
 * 🐙 [GitHub](https://github.com/SowmiyaM-123)
 * 📧 [Email](mailto:sathyamathi444@gmail.com)
 
