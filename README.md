@@ -89,11 +89,12 @@ Prediction
 📈 My Goal
 
 > Build practical AI and Machine Learning solutions that solve real-world problems.
-
+> 
 🤝 Let's Connect
 
-* 💼 LinkedIn
-* 🐙 GitHub
-* 📧 Email
+* 💼 [LinkedIn](www.linkedin.com/in/sowmiya-m-6ab6bb292)
+* 🐙 [GitHub](https://github.com/SowmiyaM-123)
+* 📧 [Email](mailto:sathyamathi444@gmail.com)
+
   
 ⭐ Thanks for visiting my profile!
